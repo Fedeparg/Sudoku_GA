@@ -1,0 +1,20 @@
+Fichero de entrada: Caso-A5.txt
+
+Parametros:    - Tamano poblacion: 150
+               - Operador de seleccion: GARouletteWheel
+               - Numero de generaciones: 12000
+               - Probabilidad cruce: 0.9
+               - Probabilidad mutacion: 0.05
+
+La solucion:
+8 2 1 6 7 5 3 9 4 
+9 5 3 2 8 4 6 7 1 
+4 6 7 9 3 1 2 5 8 
+3 4 9 8 1 7 5 6 2 
+5 8 6 4 2 3 7 1 9 
+2 1 7 5 9 6 4 8 3 
+7 3 2 1 6 8 9 4 5 
+6 8 4 3 9 5 1 2 7 
+1 9 5 7 4 2 8 3 6 
+
+Con valor fitness 4

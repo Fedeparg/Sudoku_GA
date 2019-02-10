@@ -1,0 +1,20 @@
+Fichero de entrada: Caso-A4.txt
+
+Parametros:    - Tamano poblacion: 100
+               - Operador de seleccion: GATournament
+               - Numero de generaciones: 12000
+               - Probabilidad cruce: 0.95
+               - Probabilidad mutacion: 0.1
+
+La solucion:
+8 7 1 6 9 3 4 2 5 
+4 9 5 7 8 2 6 3 1 
+2 3 6 4 5 1 8 7 9 
+9 4 7 5 2 6 1 8 3 
+1 2 8 9 3 7 5 6 4 
+6 5 3 1 4 8 7 9 2 
+5 8 4 3 7 9 2 1 6 
+7 1 9 2 6 5 3 4 8 
+3 6 2 8 1 4 9 5 7 
+
+Con valor fitness 0
